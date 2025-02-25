@@ -1,0 +1,13 @@
+{
+  "name": "@wil/ui",
+  "version": "1.0.0",
+  "description": "Reusable Utility Components For Team WhatIsLion's Next Project",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.js",
+    "types": "./dist/index.d.ts"
+  },
+  "author": "jeff",
+  "license": "MIT"
+}
